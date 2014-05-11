@@ -1,5 +1,6 @@
 
-ƒTƒ‹‚Å‚à‚í‚©‚éGitHub
+<cfoutput>
 
-’Ç‰Á‚µ‚Ä‚Ý‚½‚æB
+
+</cfoutput>
 
